@@ -35,5 +35,7 @@ public class GuessNumber {
 
         System.exit( 1);
 
+        //ha ha Joe was here, in this code, like a nerd. \(owo)/    //
+
     }
 }
