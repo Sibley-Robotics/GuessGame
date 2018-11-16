@@ -28,12 +28,15 @@ public class GuessNumber {
                 System.out.println(guess + " is correct!!");
                 System.out.println("You got it in " + guessesTaken + " guesses.");
                 System.exit(0);
+                // This is edited by Victoria
             }
         }
         System.out.println("You have had  " + guessesTaken + "guesses.");
         System.out.println("The number was:  " + target);
+        // Hello
 
         System.exit( 1);
+
 
     }
 }
